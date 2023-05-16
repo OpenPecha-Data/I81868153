@@ -1,0 +1,18 @@
+id: I81868153
+default_language: fr
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:22.922105
+last_modified: 2023-01-04 11:30:22.922119
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  DDDD:
+    title: The Benefits of Saving Lives
+    base_file: DDDD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
